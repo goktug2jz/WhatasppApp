@@ -1,0 +1,10 @@
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\bin\Debug\WhatsappTopluMesaj.exe.config
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\bin\Debug\WhatsappTopluMesaj.exe
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\bin\Debug\WhatsappTopluMesaj.pdb
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.csproj.AssemblyReference.cache
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.Form1.resources
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.Properties.Resources.resources
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.csproj.GenerateResource.cache
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.exe
+C:\Users\Göktuğ\Desktop\Software Projects\c#\uygulamalar\WhatsappTopluMesaj\obj\Debug\WhatsappTopluMesaj.pdb
